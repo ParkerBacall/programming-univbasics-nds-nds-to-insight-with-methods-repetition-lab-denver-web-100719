@@ -49,7 +49,7 @@ def total_gross(source)
   index = 0
   hash = directors_totals(source)
   while index < array do
-    pp hash[array[row_index]]
+    pp hash
     row_index +=1
   end
 
