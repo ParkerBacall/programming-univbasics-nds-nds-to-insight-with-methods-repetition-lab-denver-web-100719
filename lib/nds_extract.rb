@@ -28,7 +28,7 @@ def list_of_directors(source)
   row_index = 0
   array = []
     while row_index < source.length do
-        array << 
+        array << source[row_index]
     end
 end
 
