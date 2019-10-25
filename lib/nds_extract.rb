@@ -47,7 +47,7 @@ def total_gross(source)
 
   array = list_of_directors(source)
   index = 0
-    pp array[0]
+    pp directors_totals
   while index < array do
 
   end
