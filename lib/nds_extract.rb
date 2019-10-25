@@ -49,7 +49,7 @@ def total_gross(source)
   index = 0
   pp array
   while index < array do
-    
+
   end
   end
 
