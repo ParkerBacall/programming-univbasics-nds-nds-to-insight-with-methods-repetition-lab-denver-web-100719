@@ -47,7 +47,7 @@ def total_gross(source)
 
   array = list_of_directors(sorce)
   index = 0
-  while
+  while index < array
 
 
 
