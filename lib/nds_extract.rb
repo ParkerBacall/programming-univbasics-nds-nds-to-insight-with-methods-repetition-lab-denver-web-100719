@@ -49,6 +49,6 @@ def total_gross(source)
   index = 0
 
   while index < array do
-
+    gross_for_director(array[index])
   end
 end
