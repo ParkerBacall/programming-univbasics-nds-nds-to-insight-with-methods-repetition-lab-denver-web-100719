@@ -52,4 +52,5 @@ def total_gross(source)
     pp hash[array[0]]
     row_index +=1
   end
+  
 end
