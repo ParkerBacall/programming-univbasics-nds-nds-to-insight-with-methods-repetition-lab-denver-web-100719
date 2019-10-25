@@ -45,7 +45,7 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
 
-  array = list_of_directors(sorce)
+  array = list_of_directors(source)
   index = 0
   pp array
   while index < array do
